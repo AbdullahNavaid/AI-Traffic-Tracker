@@ -1,0 +1,9 @@
+train: D:\Pycharm Projects\New folder\train\images
+val: D:\Pycharm Projects\New folder\valid\images
+test: D:\Pycharm Projects\New folder\test\images
+nc: 11
+names: ['biker', 'car', 'pedestrian',
+        'trafficLight', 'trafficLight-Green',
+        'trafficLight-GreenLeft', 'trafficLight-Red',
+        'trafficLight-RedLeft', 'trafficLight-Yellow',
+        'trafficLight-YellowLeft', 'truck']
